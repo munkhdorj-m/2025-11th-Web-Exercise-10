@@ -1,6 +1,6 @@
 # Web Programming Exercise 10
-Javascript Creating & Removing Elements:
-https://drive.google.com/file/d/1Tc6pSC742hU4BGaESehcHKfouvuQeewe/view?usp=sharing
+Javascript Timers:
+https://drive.google.com/file/d/10rZrgz6oZxVNBejAEDX07aKlXwMymlhX/view?usp=sharing
 
 
 ## Exercise 1:
