@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1Tc6pSC742hU4BGaESehcHKfouvuQeewe/view?usp=shari
 
 ## Exercise 1:
 
-When Double-click a title make it rotate. Toggle class.
+Make a <p> flash between red and black every 500ms.
 
 https://github.com/user-attachments/assets/52b02eaa-34ce-48d1-aa78-373f49316f3e
 
@@ -13,7 +13,12 @@ https://github.com/user-attachments/assets/52b02eaa-34ce-48d1-aa78-373f49316f3e
 
 ## Exercise 2:
 
-Button toggles menu visibility.
+Button starts with "Start".  
+After clicking, button text becomes:   
+* "3..."
+* "2..."
+* "1..."
+* "Go!"
 
 https://github.com/user-attachments/assets/380f1bc3-fd70-4d55-8a5e-2dacb9fe2680
 
