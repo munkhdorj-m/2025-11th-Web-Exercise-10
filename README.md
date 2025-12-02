@@ -1,4 +1,4 @@
-# Web Programming Exercise 9
+# Web Programming Exercise 10
 Javascript Creating & Removing Elements:
 https://drive.google.com/file/d/1Tc6pSC742hU4BGaESehcHKfouvuQeewe/view?usp=sharing
 
@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1Tc6pSC742hU4BGaESehcHKfouvuQeewe/view?usp=shari
 
 Make a <p> flash between red and black every 500ms.
 
-https://github.com/user-attachments/assets/52b02eaa-34ce-48d1-aa78-373f49316f3e
+https://github.com/user-attachments/assets/4bc144ba-6ace-4800-b9c4-d849436d263d
 
 ---
 
@@ -20,24 +20,30 @@ After clicking, button text becomes:
 * "1..."
 * "Go!"
 
-https://github.com/user-attachments/assets/380f1bc3-fd70-4d55-8a5e-2dacb9fe2680
+https://github.com/user-attachments/assets/b63c391d-ab02-4303-a2e0-71e9650deae2
 
 ---
 
 ## Exercise 3:
 
-Every click increases the number of likes.
+Three buttons:
+* Start
+* Stop
+* Reset
+Timer updates every 10ms.
 
-https://github.com/user-attachments/assets/0a131521-b880-4cb4-be31-e661aa4e95da
+https://github.com/user-attachments/assets/e4563683-e9d1-4e0c-bec7-ecad61c73afc
 
 ---
 
 ## Exercise 4:
 
-Hover over the text → becomes big + blue
-Mouse leaves → goes back to normal.
+A bar slowly fills (width increases) using a timer.
+Stop when width reaches 100%.
 
-https://github.com/user-attachments/assets/772a5cee-d2d5-4e9a-b0e2-d99a45ae5a5f
+https://github.com/user-attachments/assets/1353529a-bdc2-4e4e-a628-f0b61179bc4e
+
+
 
 
 
