@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/e4563683-e9d1-4e0c-bec7-ecad61c73afc
 
 ---
 
-## Exercise 4:
+## Exercise 4 (Optional):
 
 A bar slowly fills (width increases) using a timer.
 Stop when width reaches 100%.
