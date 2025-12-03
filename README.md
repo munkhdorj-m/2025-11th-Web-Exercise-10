@@ -29,8 +29,8 @@ https://github.com/user-attachments/assets/b63c391d-ab02-4303-a2e0-71e9650deae2
 Three buttons:
 * Start
 * Stop
-* Reset
-Timer updates every 10ms.
+* Reset   
+Timer updates every 10ms.  
 
 https://github.com/user-attachments/assets/e4563683-e9d1-4e0c-bec7-ecad61c73afc
 
